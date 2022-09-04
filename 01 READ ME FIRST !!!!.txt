@@ -1,0 +1,2 @@
+This Project is made using PHP and MYSQL in back end side.
+It is a blogging website.
